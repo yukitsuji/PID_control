@@ -23,4 +23,4 @@ If sum of dp is under threshold value `0.0005`, final parameters is decided.
 
 Here is the result for 0.7 throttle.
 
-[![ScreenShot](http://img.youtube.com/vi/K-QHdTBfSbI/0.jpg)](https://youtu.be/K-QHdTBfSbI)
+[![ScreenShot](http://img.youtube.com/vi/JwAdVkhlhOw/0.jpg)](https://youtu.be/JwAdVkhlhOw)
